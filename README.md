@@ -1,1 +1,1 @@
-![Output](./src/assets/images/image.png)
+<img src="./src/assets/images/image.png" alt="Output" width="700"/>
